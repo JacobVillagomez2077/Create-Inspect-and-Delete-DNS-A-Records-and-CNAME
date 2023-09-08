@@ -4,7 +4,7 @@
 </p>
 
 <h1>Create Inspect and Delete DNS A Records and CNAME</h1>
-In this tutorial, going off On-premises Active Directory Deployed in the Cloud (Azure) [https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs] we will Create Inspect and Delete DNS A Records and CNAME in DC-1 VM . <br />
+In this tutorial, going off On-premises Active Directory Deployed in the Cloud (Azure) [https://github.com/JacobVillagomez2077/Configuring-On-premises-Active-Directory-within-Azure-VMs] we will Create Inspect and Delete DNS A Records and CNAME in DC-1 VM . <br />
 
 
 <h2>Video Demonstration</h2>
